@@ -21,7 +21,8 @@ Why are API’s popular
 APIs are popular because they simplify the process of building software applications. They provide a standard way to access data and functionality, which reduces the amount of time and effort required to build complex software systems. 
 
 Diagram to show the data transfer process in API communication: 
-![Screenshot 2023-04-06 at 15.11.22.png](..%2F..%2F..%2FDesktop%2FScreenshot%202023-04-06%20at%2015.11.22.png)
+<img width="433" alt="Screenshot 2023-04-06 at 15 11 22" src="https://user-images.githubusercontent.com/129948378/230404303-25c41872-42cd-4ec0-8e22-70874c12995e.png">
+
  
 
 In the above diagram, the client makes a request to the API, which processes the request and sends a response back to the client. 
@@ -49,8 +50,8 @@ What is HTTP?
  HTTP stands for "Hypertext Transfer Protocol." It is the protocol used for communication between web servers and web clients (such as web browsers). HTTP is a request-response protocol, where the client sends a request to the server, and the server sends a response back to the client. 
 
 HTTP is used to transfer data over the internet, such as web pages, images, videos, and other types of content. It is also used by APIs to transfer data between different software systems. HTTP is based on a client-server architecture, where the client sends requests to the server, and the server responds with the requested data. 
-![Screenshot 2023-04-06 at 15.11.46.png](..%2F..%2F..%2FDesktop%2FScreenshot%202023-04-06%20at%2015.11.46.png)
- 
+<img width="329" alt="Screenshot 2023-04-06 at 15 11 46" src="https://user-images.githubusercontent.com/129948378/230404523-2ba1ae3e-c2e0-49d8-96d9-f1693bd56425.png">
+
 
  
 
